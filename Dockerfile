@@ -1,10 +1,10 @@
 FROM golang:1.11-alpine3.7
 
-WORKDIR /go/src/github.com/linkernetworks/network-controller
+WORKDIR /go/src/github.com/vtxnetworks/network-controller
 
 RUN apk add --no-cache protobuf ca-certificates git make
 
-COPY ./ /go/src/github.com/linkernetworks/network-controller
+COPY ./ /go/src/github.com/vtxnetworks/network-controller
 RUN go get -u github.com/golang/protobuf/proto &&\
     go get -u github.com/golang/protobuf/protoc-gen-go &&\
     go get -u github.com/kardianos/govendor

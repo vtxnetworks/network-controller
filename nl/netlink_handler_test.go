@@ -5,7 +5,7 @@ import (
 	"os/exec"
 	"testing"
 
-	ovs "github.com/linkernetworks/network-controller/openvswitch"
+	ovs "github.com/vtxnetworks/network-controller/openvswitch"
 	"github.com/stretchr/testify/assert"
 	"github.com/vishvananda/netlink"
 )

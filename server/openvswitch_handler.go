@@ -3,9 +3,9 @@ package main
 import (
 	"log"
 
-	pb "github.com/linkernetworks/network-controller/messages"
+	pb "github.com/vtxnetworks/network-controller/messages"
 
-	"github.com/linkernetworks/go-openvswitch/ovs"
+	"github.com/vtxnetworks/go-openvswitch/ovs"
 	"golang.org/x/net/context"
 )
 

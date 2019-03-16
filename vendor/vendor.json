@@ -287,12 +287,6 @@
 			"revisionTime": "2018-03-31T12:42:32Z"
 		},
 		{
-			"checksumSHA1": "VLRyvNqeiQF3qn50UATUG66oQZc=",
-			"path": "github.com/linkernetworks/go-openvswitch/ovs",
-			"revision": "97d73e084649662b25cf29e2bc79510c6d50a901",
-			"revisionTime": "2018-08-27T07:00:57Z"
-		},
-		{
 			"checksumSHA1": "VnkNO/q6ZVTYCd/F7nmHosHC5a4=",
 			"path": "github.com/opencontainers/go-digest",
 			"revision": "c9281466c8b2f606084ac71339773efd177436e7",
@@ -357,6 +351,12 @@
 			"path": "github.com/vishvananda/netns",
 			"revision": "be1fbeda19366dea804f00efff2dd73a1642fdcc",
 			"revisionTime": "2017-11-10T22:28:10Z"
+		},
+		{
+			"checksumSHA1": "85se/cGX93aNyccrtnFuZa956Hg=",
+			"path": "github.com/vtxnetworks/go-openvswitch/ovs",
+			"revision": "97d73e084649662b25cf29e2bc79510c6d50a901",
+			"revisionTime": "2018-08-27T07:00:57Z"
 		},
 		{
 			"checksumSHA1": "GtamqiJoL7PGHsN454AoffBFMa8=",
@@ -623,5 +623,5 @@
 			"revisionTime": "2018-06-01T22:33:31Z"
 		}
 	],
-	"rootPath": "github.com/linkernetworks/network-controller"
+	"rootPath": "github.com/vtxnetworks/network-controller"
 }

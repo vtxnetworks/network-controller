@@ -8,9 +8,9 @@ import (
 	"os/signal"
 	"syscall"
 
-	pb "github.com/linkernetworks/network-controller/messages"
-	"github.com/linkernetworks/network-controller/nl"
-	ovs "github.com/linkernetworks/network-controller/openvswitch"
+	pb "github.com/vtxnetworks/network-controller/messages"
+	"github.com/vtxnetworks/network-controller/nl"
+	ovs "github.com/vtxnetworks/network-controller/openvswitch"
 
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"

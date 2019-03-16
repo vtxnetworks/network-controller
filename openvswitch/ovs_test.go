@@ -5,7 +5,7 @@ import (
 	"os/exec"
 	"testing"
 
-	"github.com/linkernetworks/go-openvswitch/ovs"
+	"github.com/vtxnetworks/go-openvswitch/ovs"
 	"github.com/stretchr/testify/assert"
 )
 

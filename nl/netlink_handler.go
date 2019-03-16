@@ -1,7 +1,7 @@
 package nl
 
 import (
-	ovs "github.com/linkernetworks/network-controller/openvswitch"
+	ovs "github.com/vtxnetworks/network-controller/openvswitch"
 	"github.com/vishvananda/netlink"
 	"log"
 )

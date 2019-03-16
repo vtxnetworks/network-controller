@@ -7,9 +7,9 @@ import (
 	"time"
 
 	flags "github.com/jessevdk/go-flags"
-	"github.com/linkernetworks/network-controller/client/common"
-	pb "github.com/linkernetworks/network-controller/messages"
-	"github.com/linkernetworks/network-controller/utils"
+	"github.com/vtxnetworks/network-controller/client/common"
+	pb "github.com/vtxnetworks/network-controller/messages"
+	"github.com/vtxnetworks/network-controller/utils"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 )

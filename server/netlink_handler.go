@@ -4,15 +4,15 @@ import (
 	"log"
 	"runtime"
 
-	pb "github.com/linkernetworks/network-controller/messages"
-	"github.com/linkernetworks/network-controller/utils"
+	pb "github.com/vtxnetworks/network-controller/messages"
+	"github.com/vtxnetworks/network-controller/utils"
 
 	"github.com/containernetworking/cni/pkg/types"
 	"github.com/containernetworking/cni/pkg/types/current"
 	"github.com/containernetworking/plugins/pkg/ipam"
 	"github.com/containernetworking/plugins/pkg/ns"
-	"github.com/linkernetworks/network-controller/docker"
-	"github.com/linkernetworks/network-controller/nl"
+	"github.com/vtxnetworks/network-controller/docker"
+	"github.com/vtxnetworks/network-controller/nl"
 	"golang.org/x/net/context"
 )
 

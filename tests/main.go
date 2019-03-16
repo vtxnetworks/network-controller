@@ -7,10 +7,10 @@ import (
 	"os"
 	"time"
 
-	_ "github.com/linkernetworks/go-openvswitch/ovs"
+	_ "github.com/vtxnetworks/go-openvswitch/ovs"
 
 	flags "github.com/jessevdk/go-flags"
-	pb "github.com/linkernetworks/network-controller/messages"
+	pb "github.com/vtxnetworks/network-controller/messages"
 	"google.golang.org/grpc"
 )
 
