@@ -16,6 +16,7 @@ go:
 
 before_install:
     - sudo apt-get install -y git build-essential openvswitch-switch
+    - rm -rf /home/travis/gopath/.cache/govendor/github.com
     - go get -u github.com/kardianos/govendor
     - go get -u github.com/pierrre/gotestcover
     - govendor sync -v
