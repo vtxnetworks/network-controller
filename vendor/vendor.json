@@ -353,10 +353,10 @@
 			"revisionTime": "2017-11-10T22:28:10Z"
 		},
 		{
-			"checksumSHA1": "85se/cGX93aNyccrtnFuZa956Hg=",
+			"checksumSHA1": "lGZ/SrPzJ+ydWpZkInZuNedjVBw=",
 			"path": "github.com/vtxnetworks/go-openvswitch/ovs",
-			"revision": "97d73e084649662b25cf29e2bc79510c6d50a901",
-			"revisionTime": "2018-08-27T07:00:57Z"
+			"revision": "4080d0e0799a636f8ed14de91b755fd215dbf4d3",
+			"revisionTime": "2019-03-12T19:09:09Z"
 		},
 		{
 			"checksumSHA1": "GtamqiJoL7PGHsN454AoffBFMa8=",
