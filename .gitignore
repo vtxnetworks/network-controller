@@ -9,6 +9,7 @@
 *.dylib
 vendor/*
 !vendor/vendor.json
+.vagrant
 
 # Test binary, build with `go test -c`
 *.test
